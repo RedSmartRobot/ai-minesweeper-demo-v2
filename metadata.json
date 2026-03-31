@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Minesweeper Demo",
+  "description": "An interactive demonstration of an AI agent playing Minesweeper, featuring visual reasoning, ASCII perception, and long-term memory reflection.",
+  "requestFramePermissions": []
+}
